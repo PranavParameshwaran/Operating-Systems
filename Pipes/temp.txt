@@ -1,0 +1,12 @@
+a.out
+CodeCheck.c
+Pipes-Questions.txt
+Q2.c
+Q3.c
+Q3_temp1.c
+Q3_text.txt
+Q4.c
+Q5.c
+Q6.c
+temp.txt
+TEMP.txt
