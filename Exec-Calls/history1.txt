@@ -1,0 +1,29 @@
+ps
+ls
+mas
+cd ..
+ls
+cd .. ; ls
+exit
+quit
+quit
+quit
+quit
+Quit
+quit
+
+
+
+
+
+
+qiut
+quit
+nano Q8.c
+./a.out
+quit
+ls
+ps
+qiut
+quit
+quit
