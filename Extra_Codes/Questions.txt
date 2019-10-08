@@ -1,0 +1,10 @@
+Assignment Statement: Develop C / C++ application for the following:
+(i) Sort an array of integers (or) characters (or) float values using Function Overloading.
+(ii) Solve (i) using Function Templates feature.
+(iii) Create a Generic (Stack or Queue or List - any one) Package with standard operations support using class templates feature.
+(iv) Simulate the behavior or MV and CP command using Command Line Arguments in C.
+(v) Use Variable Number of Arguments feature in C to setup a sort application that can sort multiple sized lists; (similar to python's support for sort.)
+eg: {{9,8},{2,3,1}}  o/p shoud be :{{8,9},{1,2,3}}
+note the input list can be varying number of sub arrays;
+
+each sub division is to be treated as a separate application
